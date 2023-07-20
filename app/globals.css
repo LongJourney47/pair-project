@@ -1,4 +1,9 @@
-@tailwind base;
+body {
+  background-color: #495057;
+  /* background: linear-gradient(-20deg, #014f86 20%, #89c2d9 70%); */
+}
+
+/* @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -24,4 +29,4 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
-}
+} */
